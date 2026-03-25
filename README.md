@@ -1,6 +1,6 @@
 # Task Management REST API
 
-A production-quality Task Management REST API built with **Node.js**, **Express**, and **MongoDB** (Mongoose). Supports full CRUD operations, validation, filtering, and clean error handling.
+Task Management REST API built with **Node.js**, **Express**, and **MongoDB**. Supports full CRUD operations, validation, filtering, and clean error handling.
 
 ---
 
