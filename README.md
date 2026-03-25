@@ -57,7 +57,7 @@ git clone https://github.com/beekntr/Node-Interview-Assesment.git
 # Install dependencies
 npm install
 
-# Create a .env file (already included, edit if needed)
+# Create a .env file
 # PORT=5000
 # MONGO_URI=mongodb://localhost:27017/taskmanager
 
