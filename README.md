@@ -51,8 +51,8 @@ A production-quality Task Management REST API built with **Node.js**, **Express*
 
 ```bash
 # Clone the repository
-git clone <repo-url>
-cd assignment
+git clone https://github.com/beekntr/Node-Interview-Assesment.git
+
 
 # Install dependencies
 npm install
